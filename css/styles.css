@@ -10,6 +10,10 @@
     min-height: 400px;
 }
 
+.row-about{
+    padding:30px 0px 0px 0px;
+}
+
 .footer{
     background-color: #d1c4e9;
     margin: 0px auto;
@@ -120,4 +124,8 @@ body{
     color: #f1f1f1; /* Grey text */
     width: 100%; /* Full width */
    
+  }
+
+  .change{
+      color: blue;
   }
